@@ -1,0 +1,19 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijianhui1997/gitbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijianhui1997/gitbook/issues"
+  },
+  "homepage": "https://github.com/lijianhui1997/gitbook#readme"
+}
